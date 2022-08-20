@@ -2,5 +2,5 @@
 Todo List App
 
 
-!["Gif of GameNyte and Game Pages"](https://user-images.githubusercontent.com/102705090/185763485-208ee009-f8b0-4c85-9061-aee74f54e944.mp4)
+!["Gif of GameNyte and Game Pages"](https://github.com/Jbridges1119/todo-list-js-exercise/blob/master/New%20Tab.mp4?raw=true)
 
